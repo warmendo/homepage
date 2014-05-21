@@ -42,8 +42,8 @@ h1 {
 .searchBar:focus {
     color: rgba(100,100,100,1);
 }
-.google {
-    background-image: url('../images/google-light.png');
+.duckduckgo {
+    background-image: url('../images/ddg.png');
 }
 
 .youtube {
@@ -51,7 +51,7 @@ h1 {
 }
 
 .wikipedia {
-    background-image: url('../images/wikipedia-light.jpg');
+    background-image: url('../images/nyaa.png');
     background-size: 21px 21px;
 }
 
