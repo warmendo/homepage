@@ -29,7 +29,7 @@ function removeMascot() {
 $(document).ready(function(event) {
     var mascotEnable    = true;
     var mascotPath      = "images/mascots/"
-    var mascotList      = [ 'ruri1.png', 'ruri2.png', 'ruri3.png' ];
+    var mascotList      = [ 'tony1.png', 'tony2.png', 'tony3.png', 'tony4.png', 'trenchlord.png', 'uboa.png', 'semendemon.png', 'mexichen.png', 'FOE.png', 'dotachen.png', 'comfy.png', 'claniraq.png', 'chen2.png', 'chen.png', 'BR.png', 'bounty.png', 'claniraq.png' ];
 
     var mascot          = mascotPath + mascotList[Math.floor(Math.random() * mascotList.length)];
     var mascotMinWidth  = '750';
