@@ -41,14 +41,14 @@ h1 {
 .searchBar:focus {
     color: rgba(100,100,100,1);
 }
-.google {
-    background-image: url('../images/google.png');
+.duckduckgo {
+    background-image: url('../images/ddg.png');
 }
 .youtube {
     background-image: url('../images/youtube.png');
 }
-.wikipedia {
-    background-image: url('../images/wikipedia.jpg');
+.nyaa {
+    background-image: url('../images/nyaa.jpg');
 }
 
 /* Grey button */
